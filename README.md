@@ -1,4 +1,5 @@
 # Pymaceuticals
+<<<<<<< HEAD
 # Dependencies and Setup
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -948,3 +949,5 @@ plt.show()
 # for mouse weight and average tumor volume for the Capomulin regimen
 
 ```
+=======
+>>>>>>> a05e613c735b251cdd27be790e93b0aa81a6e71c
